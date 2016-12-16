@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "My Web Workflow with NPM, SASS, Gulp and More",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablogdl/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "Juan Pablo De la torre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpablogdl/workflow/issues"
+  },
+  "homepage": "https://github.com/juanpablogdl/workflow#readme"
+}
