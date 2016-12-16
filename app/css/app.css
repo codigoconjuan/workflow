@@ -1,3 +1,7 @@
 body {
-  background-color: "#000000";
+  background-color: gray;
+}
+
+h1 {
+  color: white;
 }
