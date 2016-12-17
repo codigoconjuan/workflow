@@ -31,6 +31,7 @@
     "gulp-clean": "^0.3.2",
     "gulp-concat": "^2.6.1",
     "gulp-cssmin": "^0.1.7",
+    "gulp-htmlmin": "^3.0.0",
     "gulp-imagemin": "^3.1.1",
     "gulp-inject-partials": "^1.0.2",
     "gulp-minify": "0.0.14",
