@@ -33,6 +33,27 @@
             
 
   </div>
+  
+  <div class="container">
+      <div class="row">
+          <div id="gallery" class="gallery">
+            
+          </div>
+          <script id="template" type="x-tmpl-mustache">
+              {{#gallery}}
+                <div class="col-sm-6 col-md-4">
+                  <div class="thumbnail">
+                      <img src="img/{{image}}">
+                  </div>
+                  <div class="caption">
+                    <h3 class="text-center">{{destiny}}</h3>
+                  </div>
+                </div>
+              
+              {{/gallery}}
+          </script>
+      </div>
+  </div>
 </div>
     
   </body>
